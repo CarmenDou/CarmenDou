@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi👋, I'm **Carmen Dou</h1></div>
+<div align="center"><h1>Hi👋, I'm Carmen Dou</h1></div>
 
 <!--
 **CarmenDou/CarmenDou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 ![Profile views](https://komarev.com/ghpvc/?username=CarmenDou&color=blue&style=flat)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarmenDou&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
