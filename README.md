@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarmenDou)](https://github.com/anuraghazra/github-readme-stats)
+[![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarmenDou&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔗 **Connect with me**:  
 [Email](mailto:example@email.com) | [Telegram](#) | [Discord](#)
