@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm **Carmen Dou** 👋
 
 <!--
 **CarmenDou/CarmenDou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ![Wakatime](https://wakatime.com/badge/user/xxxxx/project/yyyyyy.svg)
 
 ---
+
+[![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarmenDou)](https://github.com/anuraghazra/github-readme-stats)
 
 🔗 **Connect with me**:  
 [Email](mailto:example@email.com) | [Telegram](#) | [Discord](#)
