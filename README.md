@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarmenDou&layout=compact&theme=light)
+
+---
+
 [![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarmenDou&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔗 **Connect with me**:  
