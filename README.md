@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm **Carmen Dou** 👋
+
+- 🎓 I'm a master student majoring in information science at [University of Pittsburgh](https://www.pitt.edu).
+- 🌱 I’m currently learning LLM and Reinforcement Learning
+- 💼 Once I was a **Full-Stack Engineer** at [ECCOM Network System Co., Ltd](https://www.linkedin.com/company/eccom-network-system-co.-ltd/).
+- 👨‍💻 I have 5-year software development experience, familiar with **Java**, **Python**, **Node.js**, **React/React-Native**, **SQL**.
+- 📫 How to reach me [carmendou0514@gmail.com](mailto:carmendou0514@gmail.com).
+
+---
+
+📊 **Monthly Development Breakdown**
+
+<!-- Wakatime Stats Embed -->
+![Wakatime](https://wakatime.com/badge/user/xxxxx/project/yyyyyy.svg)
+
+---
+
+🔗 **Connect with me**:  
+[Email](mailto:example@email.com) | [Telegram](#) | [Discord](#)
+
